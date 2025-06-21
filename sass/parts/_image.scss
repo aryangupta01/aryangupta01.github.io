@@ -3,6 +3,23 @@ img {
   max-width: 100%;
 }
 
+.top-image {
+  width: 100%;
+  max-width: var(--normal-layout-width);
+  margin: 2rem auto;
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title-image-container {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  padding: 1rem 0;
+  border-top: 1px solid var(--light-border-color);
+  border-bottom: 1px solid var(--light-border-color);
+}
+
 figure {
   box-sizing: border-box;
   display: inline-block;

@@ -1,9 +1,10 @@
 +++
 paginate_by = 7
-path = "posts"
 title = "Articles"
 sort_by = "date"
 
 [extra]
-desc = {title = "Hello! I am Heisenberg", img = "https://hips.hearstapps.com/esq.h-cdn.co/assets/16/38/480x480/square-1474665651-breaking-bad.png?resize=640:*", text = "Walter is kind, caring and timid, but also demanding, calculating, and ruthless. His invented pseudonym, Heisenberg, becomes an alter ego – a fantasy for him to live out a love of power. Beneath both sides of his dual personality, he views the world in the rarefied scientific terms of chemistry."}
+desc = {title = "Hello! I am Aryan", img = "/github_image.jpg?resize=640:*", text = """I'm Aryan Gupta — a **Machine Learning & AI enthusiast**. Whether it's fine-tuning a BERT model, designing smart APIs with FastAPI and LangChain, or exploring the math behind causality in time series, I love bringing intelligence to life through code.
+
+*When I'm not coding or reading research papers*, you'll probably find me vibing to music, watching sci-fi movies (I'm that **Interstellar + Blade Runner** kind of person), or battling it out on the basketball or badminton court."""}
 +++
