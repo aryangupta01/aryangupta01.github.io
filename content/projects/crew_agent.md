@@ -7,5 +7,5 @@ weight = 1
 
 [extra]
 remote_image = "/crewai.png"
-link_to = "https://github.com/aryangupta01/ML-Projects/tree/main/Story%20Maker%20Agent%20Crew%20FastAPI%20Api"
+link_to = "https://github.com/aryangupta01/AI-Agents/tree/main/story-maker-agent"
 +++
